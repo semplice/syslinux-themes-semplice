@@ -1,0 +1,47 @@
+syslinux-themes-semplice (1) unstable; urgency=low
+
+  * Initial release for current/atom.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Sun, 17 Feb 2013 13:48:50 +0100
+
+syslinux-themes-semplice-pulse (4) pulse; urgency=low
+
+  * Final artwork.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Mon, 17 Dec 2012 12:31:41 +0100
+
+syslinux-themes-semplice-pulse (3) pulse; urgency=low
+
+  * Alpha2 artwork.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Mon, 30 Apr 2012 17:55:22 +0200
+
+syslinux-themes-semplice-pulse (2) pulse; urgency=low
+
+  * Updated syslinux-live.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Thu, 01 Mar 2012 22:44:47 +0100
+
+syslinux-themes-semplice-pulse (1) pulse; urgency=low
+
+  * Initial pulse release.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Thu, 12 Jan 2012 19:35:51 +0100
+
+syslinux-themes-semplice-emily (3) emily; urgency=low
+
+  * Moved failsafe to other options, various fixes
+
+ -- Eugenio (g7) <morarossa@gmail.com>  Fri, 08 Jul 2011 13:54:25 +0200
+
+syslinux-themes-semplice-emily (2) emily; urgency=low
+
+  * Fixed size and various other things into the menu.
+
+ -- Eugenio (g7) <morarossa@gmail.com>  Thu, 07 Jul 2011 00:18:15 +0200
+
+syslinux-themes-semplice-emily (1) emily; urgency=low
+
+  * Initial release, based on syslinux-themes-debian.
+
+ -- Eugenio (g7) <morarossa@gmail.com>  Wed, 06 Jul 2011 19:21:25 +0200

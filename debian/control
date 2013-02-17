@@ -1,0 +1,18 @@
+Source: syslinux-themes-semplice
+Section: misc
+Priority: optional
+Maintainer: Eugenio Paolantonio (g7) <me@medesimo.eu>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.4
+
+Package: syslinux-themes-semplice-atom
+Architecture: all
+Depends: ${misc:Depends}, memtest86+, syslinux-common
+Enhances: extlinux
+Provides: syslinux-theme
+Description: collection of boot loaders (semplice-atom theme)
+ SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
+ btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
+ or from CD-ROMs.
+ .
+ This package contains the graphical bootloader theme for Semplice atom.

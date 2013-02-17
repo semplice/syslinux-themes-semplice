@@ -1,0 +1,24 @@
+0fGETTING HELP07                                                                  09F907
+
+If you can't run Semplice, don't despair! The Semplice team is ready to
+help you! We are especially interested in hearing about boot
+problems, because in general they don't happen to only 0fone07 person.
+We've either already heard about your particular problem and can dispense a
+quick fix, or we would like to hear about it and work through it with you,
+and the next user who comes up with the same problem will profit from your
+experience!
+
+Semplice is a Debian-based distribution and this live disc was built by
+live-build, the official Debian live-CD building tool.
+
+See the Live Manual or the FAQ for more information; both
+documents are available at the Debian web site,
+0fhttp://live.debian.net/07
+
+Need help? You can ask at our website, http://semplice-linux.sf.net
+
+
+
+
+
+Press F1control and F then 1 for the help index, or ENTER to 
